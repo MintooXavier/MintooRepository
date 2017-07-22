@@ -1,4 +1,4 @@
 # MintooRepository
 Repository for studying GITHUB
 
-Hello
+Hello Mintoo
